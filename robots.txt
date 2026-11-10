@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://authorjbjuke.com/sitemap.xml
